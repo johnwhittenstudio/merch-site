@@ -1,10 +1,11 @@
-# <p align="center"> 👉 **Merch Site** 🤛 </p>
+# <p align="center"> 💃 🤘 **Merch Site** 🤘 🕺 </p>
 
 _May 28, 2022_
 
-#### _React website for a band's merch site with full CRUD capability_
+#### _React merch website with full CRUD capability for the ficticious funk metal band Our Guy Al_
 
-#### By _**John Whitten**_
+
+#### By _**Phil Curran, Chris Depastene, Cesar Lopez, Christen Weston, John Whitten**_
 
 ## Table of Contents
 
@@ -57,12 +58,15 @@ Create a widget that shows the number of items in the cart. This widget should b
 - _None._
 
 ## Contact <a id="contact"></a>
-
+Phil Curran - [Email](mailto:pecurran@hotmail.com) • [LinkedIn](https://www.linkedin.com/in/philcurran/) • [GitHub](https://github.com/phil-curran) <br>
+Chris Depastene - [Email](mailto:cdepastene@gmail.com) • [LinkedIn](https://www.linkedin.com/in/christopherdepastene/) • [GitHub](https://github.com/chrisdfghjkl) <br>
+Cesar Lopez - [Email](mailto:lopez.cesar.aug@gmail.com) • [LinkedIn](https://www.linkedin.com/in/cesar-aug-lopez/) • [GitHub](https://github.com/wowgr8) <br>
+Christen Weston - [Email](mailto:johnwhitten.studio@gmail.com) • [LinkedIn](https://www.linkedin.com/in/johnwhitten-studio/) • [GitHub](https://github.com/johnwhittenstudio) <br>
 John Whitten - [Email](mailto:johnwhitten.studio@gmail.com) • [LinkedIn](https://www.linkedin.com/in/johnwhitten-studio/) • [GitHub](https://github.com/johnwhittenstudio)
 
 ## License <a id="license"></a>
 
-Copyright (c) 2022 **_John Whitten_**
+Copyright (c) 2022 _**Phil Curran, Chris Depastene, Cesar Lopez, Christen Weston, John Whitten**_
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
